@@ -1,7 +1,7 @@
 # MaterialUIForm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
-##### The app was built with Angular and Angular Material UI, enabling CRUD functionality for product management system.
+##### The app was built with Angular, Angular Material UI, and json-server, enabling CRUD functionality for product management system.
 ![image](https://user-images.githubusercontent.com/80297424/192124676-5ac04bd9-95ea-4392-9f80-e35c0a5dadf5.png)
 
 
